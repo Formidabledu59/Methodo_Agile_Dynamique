@@ -1,4 +1,4 @@
-creation projet code igniter
+creation project code igniter
 composer create-project codeigniter4/appstarter
 
 test sur wampserveur
